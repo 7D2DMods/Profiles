@@ -1,1 +1,2 @@
 Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DefaultProfile.txt
+MyTestProfiles,https://raw.githubusercontent.com/7D2DMods/Profiles/master/MyTestProfile.txt
