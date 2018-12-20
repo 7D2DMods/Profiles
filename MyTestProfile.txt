@@ -1,1 +1,3 @@
 https://github.com/7D2DMods/Mods/tree/master/Guppycur_BloodMoonTrickle
+https://github.com/7D2DMods/Mods/tree/master/SphereII_PG13
+https://github.com/7D2DMods/Mods/tree/master/SphereII_Template
