@@ -4,3 +4,4 @@ https://github.com/JaxTeller718/JaxModlets
 https://github.com/stedman420/Simple_UI_Modlets
 https://github.com/Khelldon/7d2dModlets
 https://github.com/guppycur/GuppyMods
+https://github.com/PVWolfgang/wolfgangMods
