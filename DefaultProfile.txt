@@ -5,4 +5,4 @@ https://github.com/stedman420/Simple_UI_Modlets
 https://github.com/Khelldon/7d2dModlets
 https://github.com/guppycur/GuppyMods
 https://github.com/PVWolfgang/wolfgangMods
-https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirilllion.txt
+https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
