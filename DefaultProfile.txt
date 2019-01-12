@@ -8,3 +8,4 @@ https://github.com/PVWolfgang/wolfgangMods
 https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
 https://github.com/stallionsden/StallionModlets
 https://github.com/Russiandood/RussianDoods-Sweet-and-Juicy-Modlets
+https://github.com/stedman420/S420s_Other_Modlets
