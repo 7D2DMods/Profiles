@@ -1,2 +1,3 @@
 https://github.com/7D2DMods/Mods/tree/master/SphereII_PG13
 https://github.com/7D2DMods/Mods/tree/master/SphereII_Template
+https://gitlab.com/DUST2DEATH/hdhqmodlets
