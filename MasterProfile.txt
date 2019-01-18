@@ -1,5 +1,5 @@
 Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DefaultProfile.txt
 MyTestProfiles,https://raw.githubusercontent.com/7D2DMods/Profiles/master/MyTestProfile.txt
 Sirillion,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
-alphado-jaki,https://raw.githubusercontent.com/AlphadoJaki/7D2D_SphereII_Config/master/Alpha17/Alphado.txt
+Alphado-Jaki's Terrain Modifier Modlets,https://raw.githubusercontent.com/AlphadoJaki/7D2D_SphereII_Config/master/Alpha17/Alphado.txt
 
