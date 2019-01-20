@@ -2,4 +2,4 @@ Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DefaultProfil
 MyTestProfiles,https://raw.githubusercontent.com/7D2DMods/Profiles/master/MyTestProfile.txt
 Sirillion,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
 Alphado-Jaki's Terrain Modifier Modlets,https://raw.githubusercontent.com/AlphadoJaki/7D2D_SphereII_Config/master/Alpha17/Alphado.txt
-
+DUST2DEATH,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DUST2DEATH.txt
