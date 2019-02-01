@@ -1,2 +1,3 @@
 https://github.com/7D2DMods/SDXMods
-https://github.com/TormentedEmu/A17-7DTD-SDXMods
+#https://github.com/TormentedEmu/A17-7DTD-SDXMods
+https://github.com/7D2D/A17SDXMods
