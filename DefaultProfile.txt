@@ -18,3 +18,4 @@ https://github.com/mjrice/JSS
 https://github.com/digital-play/7dtd-a17-mods-sol
 https://github.com/manux32/7d2d_A17_modlets/tree/master/manux_CustomVehicles_A17_modlet
 https://raw.githubusercontent.com/Jayick/ModLauncherRepo/master/JayickModletMaster.txt
+https://github.com/Khelldon/7d2dModlets
