@@ -20,3 +20,4 @@ https://github.com/manux32/7d2d_A17_modlets/tree/master/manux_CustomVehicles_A17
 https://raw.githubusercontent.com/Jayick/ModLauncherRepo/master/JayickModletMaster.txt
 https://github.com/Khelldon/7d2dModlets
 https://github.com/Donovan522/donovan-7d2d-modlets
+https://github.com/Ragsy2145/Ragsy-Other-Modlets
