@@ -2,7 +2,7 @@ https://github.com/7D2DMods/Mods
 https://github.com/7D2D/A17Mods
 https://github.com/JaxTeller718/JaxModlets
 https://github.com/stedman420/Simple_UI_Modlets
-https://github.com/guppycur/GuppyMods
+https://gitlab.com/guppycur/guppymods
 https://github.com/PVWolfgang/wolfgangMods
 https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
 https://github.com/stallionsden/StallionModlets
