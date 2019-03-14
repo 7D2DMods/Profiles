@@ -1,3 +1,2 @@
-,https://github.com/7D2DMods/SDXMods/tree/master
-#NoExceptionHijack,https://github.com/TormentedEmu/A17-7DTD-SDXMods/tree/master/NoExceptionHijack
+AnimationSDX,https://github.com/7D2DMods/SDXMods/tree/master/AnimationSDX
 Hal's_DLL_Fixes,https://github.com/7D2DMods/SDXMods/tree/master/HalDllUpdates
