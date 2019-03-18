@@ -22,3 +22,4 @@ https://github.com/Khelldon/7d2dModlets
 https://github.com/Donovan522/donovan-7d2d-modlets
 https://github.com/Ragsy2145/Ragsy-Other-Modlets
 https://raw.githubusercontent.com/dcsobral/7d2d/master/Mods/DCSMods.txt
+https://github.com/7d2d-sorcery/Sorcery/tree/master/Sorcery
