@@ -23,3 +23,6 @@ https://github.com/Donovan522/donovan-7d2d-modlets
 https://github.com/Ragsy2145/Ragsy-Other-Modlets
 https://raw.githubusercontent.com/dcsobral/7d2d/master/Mods/DCSMods.txt
 https://github.com/7d2d-sorcery/Sorcery/tree/master/Sorcery
+https://github.com/7D2DMods/SDXMods
+https://github.com/7D2D/A17SDXMods
+https://gitlab.com/guppycur/guppymods/tree/master/Guppycur%27s_Vehicle_Madness
