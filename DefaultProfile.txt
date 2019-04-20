@@ -27,3 +27,4 @@ https://github.com/7D2DMods/SDXMods
 https://github.com/7D2D/A17SDXMods
 https://gitlab.com/guppycur/guppymods/tree/master/Guppycur%27s_Vehicle_Madness
 https://github.com/War3zuk/ModLets
+https://github.com/TormentedEmu/A17-7DTD-SDXMods
