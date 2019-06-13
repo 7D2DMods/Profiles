@@ -1,1 +1,2 @@
 https://github.com/SphereII/SphereII.Mods/tree/master/SphereII_ModLoader
+https://github.com/Blaqbarrett/7Days-modlets/tree/master/German
