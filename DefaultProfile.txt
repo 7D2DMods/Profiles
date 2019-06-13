@@ -30,3 +30,4 @@ https://github.com/War3zuk/ModLets
 https://raw.githubusercontent.com/bdubyah/Mods/master/modmaster.txt
 https://raw.githubusercontent.com/bdubyah/Prefabs/master/prefabmaster.txt
 https://github.com/TSBX-7D/Modlets
+https://raw.githubusercontent.com/7D2DMods/Profiles/master/GermanModLocalization.txt
