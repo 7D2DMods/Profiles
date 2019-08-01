@@ -33,3 +33,4 @@ https://github.com/TSBX-7D/Modlets
 https://raw.githubusercontent.com/7D2DMods/Profiles/master/GermanModLocalization.txt
 https://github.com/OrbitalBliss/NO_CRAFTING_CHALLENGE_7D2D_MOD
 https://github.com/OrbitalBliss/HOME_DEPOT_7D2D_MOD
+https://github.com/Telrics/Telrics-Mods-and-Modlets
