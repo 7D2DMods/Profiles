@@ -36,3 +36,4 @@ https://github.com/OrbitalBliss/HOME_DEPOT_7D2D_MOD
 https://github.com/Telrics/Telrics-Mods-and-Modlets
 https://github.com/OignonChaud/7DMODS
 https://gitlab.com/KhaineGB/khainesdx
+https://gitlab.com/jaxteller718/rh_official_maps
