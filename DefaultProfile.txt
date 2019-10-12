@@ -37,3 +37,6 @@ https://github.com/Telrics/Telrics-Mods-and-Modlets
 https://github.com/OignonChaud/7DMODS
 https://gitlab.com/KhaineGB/khainesdx
 https://gitlab.com/jaxteller718/rh_official_maps
+https://github.com/JaxTeller718/JaxModletsA18
+https://github.com/OignonChaud/A18-Mods
+https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets
