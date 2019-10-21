@@ -42,3 +42,5 @@ https://github.com/OignonChaud/A18-Mods
 https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets
 https://github.com/Subquake/Modlets
 https://github.com/OdettaMod/Odetta
+https://github.com/Sirillion/SMXui
+https://github.com/Sirillion/SMXuiBBM
