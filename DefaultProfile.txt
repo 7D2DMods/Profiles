@@ -44,3 +44,4 @@ https://github.com/Subquake/Modlets
 https://github.com/OdettaMod/Odetta
 https://github.com/Sirillion/SMXui
 https://github.com/Sirillion/SMXuiBBM
+https://github.com/Atla55/7D2D-Mods
