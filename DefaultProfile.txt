@@ -1,5 +1,4 @@
 https://github.com/7D2DMods/Mods
-https://github.com/7D2D/A17Mods
 https://github.com/JaxTeller718/JaxModlets
 https://github.com/stedman420/Simple_UI_Modlets
 https://gitlab.com/guppycur/guppymods
@@ -24,7 +23,6 @@ https://github.com/Ragsy2145/Ragsy-Other-Modlets
 https://raw.githubusercontent.com/dcsobral/7d2d/master/Mods/DCSMods.txt
 https://github.com/7d2d-sorcery/Sorcery/tree/master/Sorcery
 https://github.com/7D2DMods/SDXMods
-https://github.com/7D2D/A17SDXMods
 https://gitlab.com/guppycur/guppymods/tree/master/Guppycur%27s_Vehicle_Madness
 https://github.com/War3zuk/ModLets
 https://raw.githubusercontent.com/bdubyah/Mods/master/modmaster.txt
@@ -46,3 +44,5 @@ https://github.com/Sirillion/SMXui
 https://github.com/Sirillion/SMXuiBBM
 https://github.com/Atla55/7D2D-Mods
 https://github.com/psouza4/MeanCloud_7DtD
+https://github.com/7D2D/A18DMTMods
+https://github.com/7D2D/A18Mods
