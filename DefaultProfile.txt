@@ -47,3 +47,4 @@ https://github.com/psouza4/MeanCloud_7DtD
 https://github.com/7D2D/A18DMTMods
 https://github.com/7D2D/A18Mods
 https://github.com/War3zuk/War3zuk-Alpha-18-AIO
+https://github.com/SphereII/SphereII.Mods
