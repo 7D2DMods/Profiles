@@ -1,1 +1,2 @@
-https://github.com/SphereII/SphereII.Mods/tree/master/SphereII%20Legacy%20Distant%20Terrain
+SphereII Legacy Distant Terrain
+SphereII Food Spoilage
