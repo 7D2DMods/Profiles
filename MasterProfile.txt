@@ -1,6 +1,4 @@
-Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DefaultProfile.txt
-MyTestProfiles,https://raw.githubusercontent.com/7D2DMods/Profiles/master/MyTestProfile.txt
+Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha18/DefaultProfile.txt
+Alpha 17,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha17/DefaultProfile.txt
 Sirillion,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Sirillion.txt
 Alphado-Jaki's Terrain Modifier Modlets,https://raw.githubusercontent.com/AlphadoJaki/7D2D_SphereII_Config/master/Alpha17/Alphado.txt
-DUST2DEATH,https://raw.githubusercontent.com/7D2DMods/Profiles/master/DUST2DEATH.txt
-SDX Mods,https://raw.githubusercontent.com/7D2DMods/Profiles/master/sphereii-profile.txt
