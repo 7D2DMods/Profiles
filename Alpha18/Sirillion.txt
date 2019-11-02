@@ -1,0 +1,10 @@
+https://github.com/Sirillion/SMXmenu
+https://github.com/Sirillion/SMXhud
+https://github.com/Sirillion/SMXhudBBM
+https://github.com/Sirillion/SMXhudCT
+https://github.com/Sirillion/SMXhudIcons
+https://github.com/Sirillion/SMXhudStats
+https://github.com/Sirillion/SMXxEnc
+https://github.com/Sirillion/SMXmCrops
+https://github.com/Sirillion/SMXmSta
+https://github.com/Sirillion/SMXxSEfct

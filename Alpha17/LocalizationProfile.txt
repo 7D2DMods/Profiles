@@ -1,0 +1,2 @@
+https://github.com/7D2DMods/SDXMods/tree/master/SphereII_ModLocalization
+https://github.com/7d2d-sorcery/Sorcery/tree/master/Sorcery
