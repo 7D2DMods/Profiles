@@ -23,3 +23,4 @@ https://github.com/SphereII/SphereII.Mods
 https://gitlab.com/Ragsy2145/other-7-days-to-die-mods-and-modlets
 https://github.com/bdubyah/Mods---A18
 https://raw.githubusercontent.com/dcsobral/7d2d/master/Mods/DCSMods.txt
+https://github.com/Sirillion/SMXhudTHB
