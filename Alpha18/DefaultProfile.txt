@@ -25,3 +25,4 @@ https://github.com/bdubyah/Mods---A18
 https://raw.githubusercontent.com/dcsobral/7d2d/master/Mods/DCSMods.txt
 https://github.com/Sirillion/SMXhudTHB
 https://github.com/LukeABoss2016/Boss-Mods
+https://github.com/War3zuk/ModLets-Alpha-18.1-Stable
