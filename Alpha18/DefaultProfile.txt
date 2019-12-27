@@ -28,3 +28,4 @@ https://github.com/LukeABoss2016/Boss-Mods
 https://github.com/War3zuk/ModLets-Alpha-18.1-Stable
 https://github.com/stallionsden/Valmar-Modlets
 https://gitlab.com/x3cd/7d2dmods
+https://gitlab.com/adredengaming/adreden_modlets
