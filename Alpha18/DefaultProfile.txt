@@ -33,3 +33,5 @@ https://gitlab.com/karlgiesing/7d2d-modlets
 https://github.com/wolfbain5/7dtd-a18
 https://github.com/Sirillion/ZMXuiWar3zukCP
 https://github.com/Sirillion/ZMXuiMeanCloudCP
+https://gitlab.com/EihwazDE/7D2D
+https://github.com/Robeloto/7D2D_A18.3_Modlets
