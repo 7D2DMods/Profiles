@@ -8,3 +8,6 @@ https://github.com/Sirillion/SMXxEnc
 https://github.com/Sirillion/SMXmCrops
 https://github.com/Sirillion/SMXmSta
 https://github.com/Sirillion/SMXxSEfct
+https://github.com/Sirillion/Z2
+https://github.com/Sirillion/Z2THB
+https://github.com/Sirillion/Z2TB10
