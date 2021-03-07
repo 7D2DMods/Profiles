@@ -32,3 +32,4 @@ https://github.com/doughphunghus/7D2D-Doughs-Khelldons-Mods-a19
 https://github.com/Sirillion/ZMXmenuCPDF
 https://github.com/Sirillion/ZMXhudCPDF
 https://github.com/ztensitymods/7DTDMods
+https://gitlab.com/EihwazDE/7D2D
