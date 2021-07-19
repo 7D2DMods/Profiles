@@ -14,7 +14,7 @@ https://github.com/Sirillion/Z2
 https://github.com/Sirillion/Z2TB10
 https://github.com/Sirillion/Z2THB
 https://github.com/Sirillion/SMXlib
-https://github.com/stallionsden/StallionModlets
+https://github.com/stallionsden/stallionsmodlets
 https://github.com/7D2D/A19Mods
 https://github.com/7D2D/A19DMTMods
 https://gitlab.com/KhaineGB/khainedmt-a19
