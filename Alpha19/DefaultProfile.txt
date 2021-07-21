@@ -37,3 +37,4 @@ https://github.com/ztensitymods/7DTDMods
 https://gitlab.com/EihwazDE/7D2D
 https://gitlab.com/Ko0L4iD/7DTD-Modlets-A19
 https://github.com/saminal1/samsmods
+https://github.com/stallionsden/Valmar-Modlets
