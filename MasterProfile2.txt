@@ -1,0 +1,4 @@
+Default,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha19/Default2.txt
+Alpha 19 Modlets,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha19/Default2.txt
+Alpha 18 Modlets,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha18/DefaultProfile.txt
+Alpha 17 Modlets,https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha17/DefaultProfile.txt
