@@ -8,3 +8,5 @@ https://github.com/JaxTeller718/TheVanillaProject.git
 https://github.com/JaxTeller718/A20ModletsJax.git
 https://github.com/KhaineGB/KhaineA20ModletsXML/
 https://github.com/KhaineGB/KhaineA20ModletsHarmony/
+https://github.com/psouza4/MeanCloud_7DtD
+https://gitlab.com/bdubyah/Mods---A20
