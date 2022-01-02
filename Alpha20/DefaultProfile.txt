@@ -10,3 +10,4 @@ https://github.com/KhaineGB/KhaineA20ModletsXML/
 https://github.com/KhaineGB/KhaineA20ModletsHarmony/
 https://github.com/psouza4/MeanCloud_7DtD
 https://gitlab.com/bdubyah/Mods---A20
+https://github.com/Robear72/SchematicList
