@@ -2,9 +2,7 @@ https://github.com/SphereII/SphereII.Mods/
 https://gitlab.com/Ragsy2145/ragsy-a20-modlets
 https://github.com/OCB7D2D/7D2DModLauncherA20
 https://github.com/saminal1/samsmods-a20
-https://github.com/JaxTeller718/Scavengers
 https://github.com/JaxTeller718/ActionSkills.git
-https://github.com/JaxTeller718/TheVanillaProject.git
 https://github.com/JaxTeller718/A20ModletsJax.git
 https://github.com/KhaineGB/KhaineA20ModletsXML/
 https://github.com/KhaineGB/KhaineA20ModletsHarmony/
