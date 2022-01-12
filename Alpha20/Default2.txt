@@ -10,3 +10,5 @@ https://github.com/psouza4/MeanCloud_7DtD
 https://gitlab.com/bdubyah/Mods---A20
 https://github.com/Robear72/SchematicList
 https://github.com/7D2D/A20Mods/
+https://dev.azure.com/pouellette25/_git/Gans%20Special%20Zombies
+https://dev.azure.com/pouellette25/_git/Gans%20Standard%20Zombies
