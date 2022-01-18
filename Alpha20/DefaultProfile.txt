@@ -1,8 +1,8 @@
 https://github.com/SphereII/SphereII.Mods/
 https://github.com/OCB7D2D/7D2DModLauncherA20
 https://github.com/saminal1/samsmods-a20
-https://github.com/JaxTeller718/ActionSkills.git
-https://github.com/JaxTeller718/A20ModletsJax.git
+https://github.com/JaxTeller718/ActionSkills
+https://github.com/JaxTeller718/A20ModletsJax
 https://github.com/KhaineGB/KhaineA20ModletsXML/
 https://github.com/KhaineGB/KhaineA20ModletsHarmony/
 https://github.com/psouza4/MeanCloud_7DtD
