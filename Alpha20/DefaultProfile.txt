@@ -28,3 +28,4 @@ https://github.com/Sirillion/ZMXuiCPBBMxl
 https://github.com/Sirillion/ZMXuiCPBBMxxl
 https://github.com/Sirillion/ZMXuiCPTFS
 https://github.com/ztensitymods/7DTDMods
+https://github.com/AuroraGiggleFairy/HUDPlus
