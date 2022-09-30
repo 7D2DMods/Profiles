@@ -31,3 +31,4 @@ https://github.com/ztensitymods/7DTDMods
 https://github.com/AuroraGiggleFairy/HUDPlus
 https://gitlab.com/ActiniumTiger/actiniumtigers-modlets?34055912
 https://github.com/Cornl3read/SumCornl3read_v1
+https://gitlab.com/guppycur/guppymods?11121010
