@@ -16,7 +16,7 @@ https://gitlab.com/karlgiesing/7d2d-a20-modlets?31871398
 https://github.com/Warlockdaddy/ImprovedRWG
 https://github.com/GazzTFP1/GazzMods
 https://github.com/Sirillion/SMXhud
-https://github.com/Sirillion/SMXlib
+https://github.com/Sirillion/SMXcore
 https://github.com/Sirillion/SMXmenu
 https://github.com/Sirillion/SMXui
 https://github.com/Sirillion/ZMXhudCPBH1080
