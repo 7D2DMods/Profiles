@@ -33,3 +33,4 @@ https://gitlab.com/ActiniumTiger/actiniumtigers-modlets?34055912
 https://github.com/Cornl3read/SumCornl3read_v1
 https://gitlab.com/guppycur/guppymods?11121010
 https://github.com/s7092910/Quartz
+https://github.com/brucezztong/ZZTong.7D2D.Mods
