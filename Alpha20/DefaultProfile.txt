@@ -1,5 +1,6 @@
 https://github.com/SphereII/SphereII.Mods/
 https://github.com/OCB7D2D/7D2DModLauncherA20
+https://raw.githubusercontent.com/7D2DMods/Profiles/master/Alpha20/OCB7D2D.txt
 https://github.com/saminal1/samsmods-a20
 https://github.com/JaxTeller718/ActionSkills
 https://github.com/JaxTeller718/A20ModletsJax
