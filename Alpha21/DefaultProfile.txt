@@ -1,5 +1,6 @@
 # No tailing slashes
 https://github.com/SphereII/SphereII.Mods
 https://github.com/RevenantWit/7D2D_A21_Modlets
-https://github.com/DonovanMods/donovan-7d2d-modlets
+#https://github.com/DonovanMods/donovan-7d2d-modlets
+https://raw.githubusercontent.com/DonovanMods/donovan-7d2d-modlets/stable/profile.txt
 https://gitlab.com/karlgiesing/7d2d-a21-modlets?46761604
