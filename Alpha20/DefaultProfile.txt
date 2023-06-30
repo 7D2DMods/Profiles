@@ -37,3 +37,4 @@ https://github.com/s7092910/Quartz/
 https://github.com/brucezztong/ZZTong.7D2D.Mods/
 https://github.com/MrWhite6669/WhitesRealisticFoodAndDrinks/
 https://github.com/Zilox135/A20Modlets/
+https://github.com/RevenantWit/7D2D_A20_Modlets/
