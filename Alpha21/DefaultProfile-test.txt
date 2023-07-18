@@ -1,0 +1,14 @@
+# No tailing slashes
+#https://github.com/SphereII/SphereII.Mods
+https://api.github.com/repos/SphereII/SphereII.Mods/git/trees/master?recursive=1
+#https://github.com/RevenantWit/7D2D_A21_Modlets
+https://api.github.com/repos/RevenantWit/7D2D_A21_Modlets/git/trees/main?recursive=1
+#https://github.com/DonovanMods/donovan-7d2d-modlets
+https://api.github.com/repos/DonovanMods/donovan-7d2d-modlets/git/trees/stable?recursive=1
+#https://raw.githubusercontent.com/DonovanMods/donovan-7d2d-modlets/stable/profile.txt
+https://gitlab.com/karlgiesing/7d2d-a21-modlets?46761604
+https://gitlab.com/Ragsy2145/ragsy-modlets-a21?46837813
+#https://github.com/SphereII/ModletTesting/releases
+https://github.com/stallionsden/CP-NPC-Prefab-Pack-V21.0.0.1/releases
+#https://github.com/dementive/Dementive7D2DMods
+https://api.github.com/repos/dementive/Dementive7D2DMods/git/trees/main?recursive=1
