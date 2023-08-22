@@ -10,3 +10,4 @@ https://github.com/dementive/Dementive7D2DMods?Branch=main
 https://github.com/doughphunghus/7D2D-Doughs-Mods-a21?Branch=main
 https://gitlab.com/guppycur/A21-Mods?47928571
 https://github.com/7D2D/A21Mods?Branch=main
+https://github.com/KhaineGB/KhaineA21ModletsXML?Branch=main
