@@ -8,5 +8,6 @@ https://gitlab.com/Ragsy2145/ragsy-modlets-a21?46837813
 #https://github.com/SphereII/ModletTesting/releases
 https://github.com/stallionsden/CP-NPC-Prefab-Pack-V21.0.0.1/releases
 https://github.com/dementive/Dementive7D2DMods
-https://gitlab.com/guppycur/A21-Mods?47928571
+#https://gitlab.com/guppycur/A21-Mods?47928571
+https://gitlab.com/guppycur/A21-Mods?52755163
 https://github.com/7D2D/A21Mods
